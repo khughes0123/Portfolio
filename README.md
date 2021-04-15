@@ -1,7 +1,8 @@
 # Portfolio for Red Badge
 
 ## Background
-### Lists some skills I have learned as well as educational background.
+### Skills
+### Educational background
 
 ## Projects
 ### Group API - The Walking Dead
