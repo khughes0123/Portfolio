@@ -1,1 +1,31 @@
+body{
+    background-image: url("./assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-body{
+    background-color:rgb(195, 216, 204);
+}
+
+.list-group-item{
+background-color: rgb(248, 241, 245);
+}
+
+h3{
+    font-weight:bolder;
+    font-style: italic;
+}
+
+h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-link{
+    font-size: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:800;
+}
+
 
